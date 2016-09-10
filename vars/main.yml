@@ -1,0 +1,5 @@
+---
+scala_url_base: "http://downloads.lightbend.com/scala"
+
+scala_dir_base: /opt
+

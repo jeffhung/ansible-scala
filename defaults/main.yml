@@ -1,0 +1,14 @@
+---
+## Which Scala version to use:
+## - 2.11.8
+scala_version: 2.11.8
+
+## Which environment to deploy:
+## - devel: provision devel-time environment for developing with Scala
+## - build: provision build-time environment for packaging Scala (n/a)
+scala_environment: devel
+
+## Cache directory for holding downloaded/generated files.
+## The default is /vagrant/files so cache persist between boxes.
+scala_cache_dir: /vagrant/files
+
